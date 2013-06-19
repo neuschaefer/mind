@@ -189,7 +189,7 @@ static void get_choice(char *choice)
 			} else if (ch == 21 && pos) { /* ^u */
 				choice_back(pos);
 				pos = 0;
-			}	
+			}
 		}
 	}
 }
@@ -233,7 +233,7 @@ int main(int argc, char **argv)
 	init_term();
 
 	mkanswer();
-	
+
 	for (i = 1; i <= chances && !done; i++) {
 		printf(" %2d. ", i);
 		get_choice(choice);
