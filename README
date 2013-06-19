@@ -1,0 +1,11 @@
+          "Mind"
+
+This is a little puzzle game for VT102 terminals and terminal emulators.
+It should work fine on almost all Linux systems.
+
+It's called mind because it seems to be similiar to Mastermind, but the game
+concept is really taken from a mini game in "Jets 'n' Guns" by Rake in Grass
+(http://www.rakeingrass.com/game_jetsnguns.php).
+
+Author:  Jonathan Neuschäfer <j.neuschaefer@gmx.net>
+License: BSD 2-Clause ("simplified")
