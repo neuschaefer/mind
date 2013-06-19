@@ -5,9 +5,9 @@
  *     Please read LICENSE.
  *
  * Rules:
- * you get a number of chances to solve this riddle.
- * you will first be promted for four numbers, then the game
- * will show you whether they where correct (green), wrong, but
+ * You get a number of chances to solve this riddle.
+ * You will first be promted for four numbers, then the game
+ * will show you whether they were correct (green), wrong, but
  * somewhere else (yellow), or totally wrong (red). The game
  * will choose numbers from zero to nine.
  * example for the numbers 2 3 4 0:
